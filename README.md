@@ -1,4 +1,4 @@
-# Getting the rates of instant quoting freight websites in Australia
+# Getting the rates of Australian instant quoting websites for palletised freight
 
 Use the all_scraper.py script.
 Just run it.
