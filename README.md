@@ -1,15 +1,18 @@
 # Getting the rates of Australian instant quoting websites for palletised freight
 
-## Input
+### Input
 
 
 
-## Scrapers
+### Scrapers
 
-Use the all_scraper.py script.\n
-Just run it.\n
+Use the all_scraper.py script.
+
+Just run it.
+
 It should be fairly clear with the comments.
 
-## Output
+
+### Output
 
 zef
