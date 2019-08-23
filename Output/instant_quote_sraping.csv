@@ -1,0 +1,27 @@
+Website scraped,Date of Scraping,City From,City To,Distance,Date of Transport,Value of Goods,Number of Pallets,Length of Pallets,Width of Pallets,Height of Pallets,Weight of Pallets,Price Excl. GST,Type,Duration,Insurance bundle,error
+Freight Exchange,2019-08-22 14:42:42.302219,2000,3000,878,02/09/2019,1,5,110,110,150,100,606.09,GENERAL,2-3 working days,$500,
+Freight Exchange,2019-08-22 14:42:42.302219,2000,3000,878,02/09/2019,1,5,110,110,150,100,641.35,GENERAL,1-2 working days,$500,
+Freight Exchange,2019-08-22 14:42:42.302219,2000,3000,878,02/09/2019,1,5,110,110,150,100,6891.69,OVERNIGHT,next working day,$500,
+Transdirect,2019-08-22 14:43:01.670726,2000,3000,878,22/08/2019,1,5,110,110,150,100,8635.87,toll_priority_overnight,Overnight*,$ 0.00,
+Transdirect,2019-08-22 14:43:01.670726,2000,3000,878,22/08/2019,1,5,110,110,150,100,1057.08,allied,1-2 Business Days,$ 0.00,
+Transdirect,2019-08-22 14:43:01.670726,2000,3000,878,22/08/2019,1,5,110,110,150,100,16584.23,toll_priority_sameday,Sameday Next Flight,$ 0.00,
+Transdirect,2019-08-22 14:43:01.670726,2000,3000,878,22/08/2019,1,5,110,110,150,100,897.86,northline,2 Business Days,$ 0.00,
+peakup,2019-08-22 14:43:21.803580,2000,3000,878,02/09/2019,1,5,110,110,150,100,,,,,Unexpected error with 'peakup'. Might be the page taking too long to load
+movit,2019-08-22 14:43:28.778790,2000,3000,878,02/09/2019,1,5,110,110,150,100,,,,,Unexpected error with 'movit'. Might be the page taking too long to load
+freightexchange,2019-08-22 14:43:40.260146,2000,3000,878,02/09/2019,1,5,110,110,150,200,,,,,Unexpected error with 'freightexchange'. Might be the page taking too long to load
+Transdirect,2019-08-22 14:43:48.501838,2000,3000,878,22/08/2019,1,5,110,110,150,200,8635.87,toll_priority_overnight,Overnight*,$ 0.00,
+Transdirect,2019-08-22 14:43:48.501838,2000,3000,878,22/08/2019,1,5,110,110,150,200,1057.08,allied,1-2 Business Days,$ 0.00,
+Transdirect,2019-08-22 14:43:48.501838,2000,3000,878,22/08/2019,1,5,110,110,150,200,766.65,sampson_express,1-2 Business Days,$ 0.00,
+Transdirect,2019-08-22 14:43:48.501838,2000,3000,878,22/08/2019,1,5,110,110,150,200,16584.23,toll_priority_sameday,Sameday Next Flight,$ 0.00,
+Transdirect,2019-08-22 14:43:48.501838,2000,3000,878,22/08/2019,1,5,110,110,150,200,897.86,northline,2 Business Days,$ 0.00,
+Peak Up,2019-08-22 14:44:27.963727,2000,3000,878,22/08/2019,1,5,110,110,150,200,746.25,General Peak Up,"Next Working Day for Major Cities, otherwise 2-4 working days depending on the distance",$ 0.00,
+MovIt,2019-08-22 14:44:35.941115,2000,3000,878,22/08/2019,1,5,110,110,150,200,520.76,General Road Freight,2 Days,$ 0.00,
+MovIt,2019-08-22 14:44:35.941115,2000,3000,878,22/08/2019,1,5,110,110,150,200,781.14,Express General Road Freight,1 days,$ 0.00,
+Freight Exchange,2019-08-22 15:58:13.416523,2000,3000,878,02/09/2019,1,5,110,110,150,100,606.09,GENERAL,2-3 working days,$500,
+Freight Exchange,2019-08-22 15:58:13.416523,2000,3000,878,02/09/2019,1,5,110,110,150,100,641.35,GENERAL,1-2 working days,$500,
+Freight Exchange,2019-08-22 15:58:13.416523,2000,3000,878,02/09/2019,1,5,110,110,150,100,6891.69,OVERNIGHT,next working day,$500,
+Transdirect,2019-08-22 15:58:31.852927,2000,3000,878,22/08/2019,1,5,110,110,150,100,8635.87,toll_priority_overnight,Overnight*,$ 0.00,
+Transdirect,2019-08-22 15:58:31.852927,2000,3000,878,22/08/2019,1,5,110,110,150,100,1057.08,allied,1-2 Business Days,$ 0.00,
+Transdirect,2019-08-22 15:58:31.852927,2000,3000,878,22/08/2019,1,5,110,110,150,100,766.65,sampson_express,1-2 Business Days,$ 0.00,
+Transdirect,2019-08-22 15:58:31.852927,2000,3000,878,22/08/2019,1,5,110,110,150,100,16584.23,toll_priority_sameday,Sameday Next Flight,$ 0.00,
+Transdirect,2019-08-22 15:58:31.852927,2000,3000,878,22/08/2019,1,5,110,110,150,100,897.86,northline,2 Business Days,$ 0.00,
