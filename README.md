@@ -1,5 +1,7 @@
 # Getting the rates of Australian instant quoting websites for palletised freight
 
+To run the analysis run Scrapers/all_scraper_prices.py after having chosen how long you want the program to run.
+
 ## Input
 
 **Be aware of typos in the input**
@@ -28,12 +30,15 @@ The km distance is not required for the program but for the later analysis.
 
 ### value_of_goods.csv
 
-It i
+Takes one value per row on the first column in dollar value.
+
+Only required for one website and possibly useful for a second to benchmark the price of their insurance service.
 
 
 ### import_data_scraper.py
 
-It i
+Imports all data from .csv files, deletes the header and take only the relevant columns.
+Then, for as many combinations as there can be bewteen the rows of each file, there are as many rows of search.
 
 
 ## Scrapers
