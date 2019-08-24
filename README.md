@@ -9,18 +9,27 @@
 Takes one date per row, in the first column as dd/mm/YYYY
 If the date is in weekends or in the past it will be automatically changed to the next suitable date.
 
+
 ### packaging.csv
 
 Takes one packaging type per row over 5 columns as:
+
 Pallet quantity | Pallet length (cm) | Pallet width (cm) | Pallet height (cm) | Pallet weight (kg)
---------------- | ------------------ | ----------------- | ------------------ | ------------------
+
+
 ### routes.csv
 
-It i
+Takes one route per row over 3 columns as:
+
+ZIP code of origin city | ZIP code of destination city | Kilometer distance between the two
+
+The km distance is not required for the program but for the later analysis.
+
 
 ### value_of_goods.csv
 
 It i
+
 
 ### import_data_scraper.py
 
