@@ -45,12 +45,31 @@ Then, for as many combinations as there can be bewteen the rows of each file, th
 
 ## Scrapers
 
-I will comment this part of readme later, for now:
+### chromedriver
 
-Use the **all_scraper.py script**.
+It might be needed to get the lastest version of chromedriver. The firefox equivalent would work the same I expect.
 
-It should be fairly clear with the comments.
+I do not own any right, if there is any issue with it being present here please contact me.
 
+### freightexchange_scraper_prices.py
+
+Fills the main page, then scrapes the price, type, duration and insured value for each proposition.
+
+### movit_scraper_prices.py
+
+Fills the main page, then scrapes the price and duration for general and express delivery.
+
+### peakup_scraper_prices.py
+
+Fills the main page, then scrapes the price and duration of the only proposition.
+
+### transdirect_scraper_prices.py
+
+Fills the main page, then scrapes the price, type, duration and insured value for each proposition.
+
+### all_scraper_prices.py
+
+azertyuio
 
 ## Output
 
