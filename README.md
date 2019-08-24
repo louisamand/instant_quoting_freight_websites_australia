@@ -1,6 +1,6 @@
 # Getting the rates of Australian instant quoting websites for palletised freight
 
-To run the scraper, run Scrapers/all_scraper_prices.py after having chosen how long you want the program to run.
+To run the scraper, run `Scrapers/all_scraper_prices.py` after having chosen how long you want the program to run.
 
 ## Input
 
@@ -38,7 +38,7 @@ Only required for one website and possibly useful for a second to benchmark the 
 
 ### import_data_scraper.py
 
-Imports all data from .csv files, deletes the header and take only the relevant columns.
+Imports all data from `.csv` files, deletes the header and take only the relevant columns.
 
 Then, for as many combinations as there can be bewteen the rows of each file, there are as many rows of search.
 
@@ -85,5 +85,6 @@ It is the log that logs every query made. It does not yet take into account the 
 
 ### export_data_scraper.py
 
-Takes one row of data and adds it to the existing **instant_quote_scraping.csv** file, or creates it if it has been deleted or moved.
+Takes one row of data and adds it to the existing `instant_quote_scraping.csv` file, or creates it if it has been deleted or moved.
+Takes the information of a query and adds it to the existing `searches_log.csv` file, or creates it if it has been deleted or moved.
 Takes the information of a query and adds it to the existing **searches_log.csv** file, or creates it if it has been deleted or moved.
