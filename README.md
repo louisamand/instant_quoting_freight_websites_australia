@@ -8,7 +8,8 @@ To run the analysis run Scrapers/all_scraper_prices.py after having chosen how l
 
 ### dates.csv
 
-Takes one date per row, in the first column as dd/mm/YYYY
+Takes one date per row, in the first column as dd/mm/YYYY.
+
 If the date is in weekends or in the past it will be automatically changed to the next suitable date.
 
 
