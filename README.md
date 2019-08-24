@@ -38,14 +38,15 @@ Only required for one website and possibly useful for a second to benchmark the 
 ### import_data_scraper.py
 
 Imports all data from .csv files, deletes the header and take only the relevant columns.
+
 Then, for as many combinations as there can be bewteen the rows of each file, there are as many rows of search.
 
 
 ## Scrapers
 
-Use the all_scraper.py script.
+I will comment this part of readme later, for now:
 
-Just run it.
+Use the **all_scraper.py script**.
 
 It should be fairly clear with the comments.
 
