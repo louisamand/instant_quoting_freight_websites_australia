@@ -87,4 +87,4 @@ It is the log that logs every query made. It does not yet take into account the 
 
 Takes one row of data and adds it to the existing `instant_quote_scraping.csv` file, or creates it if it has been deleted or moved.
 Takes the information of a query and adds it to the existing `searches_log.csv` file, or creates it if it has been deleted or moved.
-Takes the information of a query and adds it to the existing **searches_log.csv** file, or creates it if it has been deleted or moved.
+Takes the information of a query and adds it to the existing `searches_log.csv` file, or creates it if it has been deleted or moved.
