@@ -13,7 +13,7 @@ If the date is in weekends or in the past it will be automatically changed to th
 
 Takes one packaging type per row over 5 columns as:
 Pallet quantity | Pallet length (cm) | Pallet width (cm) | Pallet height (cm) | Pallet weight (kg)
-
+--------------- | ------------------ | ----------------- | ------------------ | ------------------
 ### routes.csv
 
 It i
