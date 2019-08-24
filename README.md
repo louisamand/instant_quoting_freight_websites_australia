@@ -15,4 +15,12 @@ It should be fairly clear with the comments.
 
 ### Output
 
-zef
+#### instant_quote_scraping.csv
+
+It is the destination file with all the data.
+
+#### searches_log.csv
+
+It is the log that logs every query made. It does not yet take into account the input files.
+
+#### export_data_scraper.py
