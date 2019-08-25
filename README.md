@@ -1,6 +1,6 @@
 # Getting the rates of Australian instant quoting websites for palletised freight
 
-To run the scraper, run `Scrapers/all_scraper_prices.py` after having chosen how long you want the program to run.
+To run the scraper, run `Scrapers/all_scraper_prices.py` after having chosen how long (in minutes) you want the program to run.
 
 ## Input
 
