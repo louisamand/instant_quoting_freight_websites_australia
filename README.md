@@ -69,7 +69,7 @@ Fills the main page, then scrapes the price, type, duration and insured value fo
 
 ### all_scraper_prices.py
 
-azertyuio
+Checks before each search if the input max amount of minutes has not been reached. If not, the program continues searching alternativelly on each website.
 
 ## Output
 
